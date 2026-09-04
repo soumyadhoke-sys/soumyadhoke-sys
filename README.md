@@ -35,10 +35,15 @@
 * **[AI Phishing Detector](https://github.com/soumyadhoke-sys/AI-Phishing-Detector)** - An intelligent security tool leveraging machine learning to detect and flag malicious URLs and phishing threats in real time.
 * **[Wander AI](https://github.com/soumyadhoke-sys/Wander-AI)** - An AI-powered travel assistant that creates custom itineraries, offers location insights, and simplifies trip planning.
 
-**📊 GitHub Stats & 🔥 Contribution Streak**
+**📊 GitHub Streak Stats**
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=soumyadhoke-sys&show_icons=true&theme=tokyonight&hide_border=true" alt="soumyadhoke-sys's GitHub stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadhoke-sys&theme=tokyonight&hide_border=true" alt="soumyadhoke-sys's Streak" />
+</p>
+
+**📊 Contribution Graph**
+<p align="center">
+<img src="https://ghchart.rshah.org/soumyadhoke-sys" alt="Soumya's Github Contribution Chart" />
 </p>
 
 **🌐 Social links**
