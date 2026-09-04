@@ -32,8 +32,8 @@
 </p>
 
 **🚀 Featured Projects**
-* **[Project One Name](https://github.com/soumyadhoke-sys/project-one)** - A brief description of what this project does and the main technologies used to build it.
-* **[Project Two Name](https://github.com/soumyadhoke-sys/project-two)** - A brief description of what this project does and the main technologies used to build it.
+* **[AI Phishing Detector](https://github.com/soumyadhoke-sys/AI-Phishing-Detector)** - An intelligent security tool leveraging machine learning to detect and flag malicious URLs and phishing threats in real time.
+* **[Wander AI](https://github.com/soumyadhoke-sys/Wander-AI)** - An AI-powered travel assistant that creates custom itineraries, offers location insights, and simplifies trip planning.
 
 **📊 GitHub Stats & 🔥 Contribution Streak**
 <p align="center">
